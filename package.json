@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/TheLDB/ChristmasCounter/issues"
   },
-  "homepage": "https://github.com/TheLDB/ChristmasCounter#readme"
+  "homepage": "https://github.com/TheLDB/ChristmasCounter#readme",
+  "dependencies": {
+    "days-until-christmas": "^1.1.3",
+    "dotenv": "^10.0.0",
+    "twitter": "^1.7.1"
+  }
 }
