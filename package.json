@@ -1,0 +1,25 @@
+{
+  "name": "christmascountdown",
+  "version": "0.0.1",
+  "description": "Just a script that automatically changes my name on Twitter to countdown the days until Christmas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLDB/ChristmasCounter.git"
+  },
+  "keywords": [
+    "christmas",
+    "countdown",
+    "nodejs",
+    "twitter"
+  ],
+  "author": "Landon Boles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheLDB/ChristmasCounter/issues"
+  },
+  "homepage": "https://github.com/TheLDB/ChristmasCounter#readme"
+}
